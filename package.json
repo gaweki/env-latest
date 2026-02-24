@@ -12,6 +12,14 @@
   "bin": {
     "env-latest": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaweki/env-latest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gaweki/env-latest/issues"
+  },
+  "homepage": "https://github.com/gaweki/env-latest#readme",
   "dependencies": {
     "dotenv": "^17.3.1"
   }
